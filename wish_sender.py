@@ -45,7 +45,7 @@ def sending_mech(a, b):
 
 
 # Open the file and read its contents
-with open('contacts.txt', encoding="utf-8") as file:
+with open('contacts.vcf', encoding="utf-8") as file:
     text = file.read()
 
 
