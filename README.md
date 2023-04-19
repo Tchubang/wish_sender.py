@@ -12,16 +12,3 @@ The Keyword_search() function prompts the user to either remove contacts or cont
 
 Overall, the script provides a simple and efficient way to send messages to specific contacts on WhatsApp using Python.
 
-
-REQUIREMENTS 
-1. python 3 
-2. your contact list
-3. Whatsapp app
-
-STEP 1 : Export your contact list in the format of vCard 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/123884652/233113032-d0be778b-066a-4006-961a-b8d8950cdf80.png">
-
-STEP 2 : place the contact file at the same directory or folder as the script and then change the extantion of of contacts.vcf to contacts.txt by renaming it.
-<img width="604" alt="image" src="https://user-images.githubusercontent.com/123884652/233113887-b5cb4f8c-62e4-4ec7-8e38-b4160a988366.png">
-
-STEP 3 :
